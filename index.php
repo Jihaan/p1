@@ -21,7 +21,7 @@ It is one of the required courses for my degree program and it also sounded pret
 I worked in .NET dev for a couple of years before I moved in Project Management.
 
 <B>Are you working on a Mac, PC, or some other platform?</B><br>
-A Mac!
+A Mac! I was worried everyone else would be on a pc.
 
 <B>Anything else we should know?</B><br>
 I'm a little scared of this class!  It's been a few years since I did any hands on programming.<br>
